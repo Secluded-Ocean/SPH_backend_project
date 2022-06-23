@@ -42,9 +42,7 @@ npm run dev
 ### 打包构建项目
 
 ```
-//构建生产环境
-npm run build:prod
-//构成测试环境
-npm run build:stagexxxxxxxxxx //构建生产环境npm run build:prod//构成测试环境npm run build:stagenpm run build
+//构建生产环境npm run build:prod
+//构成测试环境npm run build:stagenpm run build
 ```
 
